@@ -1,0 +1,8 @@
+<html>
+<head><title>Example of button</title></head>
+<body>
+<h2>Magic button</h2>
+<p>Click the below button to know one thing ab
+<button onclick="alert('you are awesome!')">Cl
+</body >
+</html>
